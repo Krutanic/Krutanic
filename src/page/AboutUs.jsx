@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import DynamicFounder from "../Components/DynamicFounder";
+// import DynamicFounder from "../Components/DynamicFounder";
 import ProfileCards from "../Components/ProfileCards";
 
 
@@ -60,18 +60,10 @@ const AboutUs = () => {
     />
   </div>
 </div>
-      <DynamicFounder />
-<<<<<<< HEAD
+      {/* <DynamicFounder /> */}
       <ProfileCards />
-=======
-      <ProfileCards/>
->>>>>>> a6801828ee9f35e6aebe944720e0e3fc0879e807
     </div>
   );
 };
 
-<<<<<<< HEAD
 export default AboutUs;
-=======
-export default AboutUs;
->>>>>>> a6801828ee9f35e6aebe944720e0e3fc0879e807
